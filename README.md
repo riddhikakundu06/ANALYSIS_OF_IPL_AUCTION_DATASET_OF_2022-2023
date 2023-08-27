@@ -10,6 +10,9 @@ The analysis of IPL Auction 2022-23 using machine learning techniques has provid
 
 
 
+
+
+
 **DATA**
 
 The dataset used in the project is taken from kaggle . The dataset has 284 rows and 6 columns i.e Season , Name , Nationality , Type , Price , Team . Tools used for analysis are Python , Matplotlib , Seaborn , Numpy , Pandas .
